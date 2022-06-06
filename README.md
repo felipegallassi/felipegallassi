@@ -1,4 +1,4 @@
-<h1>Muito Prazer!Me chamo Felipe Gallassi e sou estudande de desenvolvimento full stack na Trybe<h1/>
+<h1> &nbsp Muito Prazer! &nbsp Me chamo Felipe Gallassi e sou estudande de Desenvolvimento Web Full Stack na Trybe<h1/>
 <hr/>
 <h3> &nbsp Prestes a me formar em arquitetura, sem querer me deparo com a área de tecnologia. Logo de cara me interessei e em pouco tempo fui procurando saber cada vez mais sobre, quando me dei conta não tinha mais volta.<br/> 
    &nbsp Descobrir as infinitas possibilidades que a tecnologia proporciona e o impacto que ela tem hoje e tendendo a ser ainda maior no futuro me fez tomar a difícil decisão de transição de carreira, da qual não me arrependo nem por um segundo!<br/>
