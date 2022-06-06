@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegallassi&count_private=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegallassi&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
-<img src="{(https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)}" />
-![image]({[(https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)})
-
-
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
 
 
 
