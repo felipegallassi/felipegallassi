@@ -6,8 +6,8 @@
   &nbsp A cada dia mais motivado por novos desafios e aprendizados, ansioso por fazer parte desse futuro incrível que a área da tecnologia promete e sempre me praparando para poder contribuir ao máximo!
   <h4/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegallassi&count_private=true&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegallassi&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegallassi&count_private=true&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegallassi&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Skills
 
