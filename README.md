@@ -1,8 +1,8 @@
 <h2> &nbsp👋 Muito Prazer! &nbsp Me chamo Felipe Gallassi e sou estudande de Desenvolvimento Web Full Stack na Trybe<h2/>
 <hr/>
-<h4> &nbsp Prestes a me formar em arquitetura, sem querer me deparo com a área de tecnologia. Logo de cara me interessei e em pouco tempo fui procurando saber cada vez mais sobre, quando me dei conta não tinha mais volta.<br/> 
-   &nbsp Descobrir as infinitas possibilidades que a tecnologia proporciona e o impacto que ela tem hoje e tendendo a ser ainda maior no futuro me fez tomar a difícil decisão de transição de carreira, da qual não me arrependo nem por um segundo!<br/>
-   &nbsp Trilhando por essa jornada já foram acumulados alguns conhecimentos, começando por html e css, passando pela área de front-end desenvolvi apps funcionais e estilizados utilizando javascript,html,css,react,redux e hooks e atualmente desbravando o back-end aprendendo sobre banco de dados(MySQL e MongoDB), Docker, Typescript, NodeJs, Poo, SOLID...<br/>
+<h4> &nbsp Prestes a me formar em arquitetura, sem querer me deparo com a área de tecnologia. Logo de cara, me interessei e em pouco tempo fui procurando saber cada vez mais sobre, quando me dei conta não tinha mais volta.<br/> 
+   &nbsp Descobrir as infinitas possibilidades que a tecnologia proporciona e o impacto que ela tem hoje, e tendendo a ser ainda maior no futuro me fez tomar a difícil decisão de transição de carreira, da qual não me arrependo nem por um segundo!<br/>
+   &nbsp Trilhando por essa jornada, já foram acumulados alguns conhecimentos, começando por html e css, passando pela área de front-end desenvolvi apps funcionais e estilizados utilizando javascript,html,css,react,redux e hooks e atualmente desbravando o back-end aprendendo sobre banco de dados(MySQL e MongoDB), Docker, Typescript, NodeJs, Poo, SOLID...<br/>
   &nbsp A cada dia mais motivado por novos desafios e aprendizados, ansioso por fazer parte desse futuro incrível que a área da tecnologia promete e sempre me praparando para poder contribuir ao máximo!
   <h4/>
   
